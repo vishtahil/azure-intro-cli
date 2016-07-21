@@ -2,10 +2,10 @@
 
 **Use the following command to enable the Azure Resource Manager commands:**
 
-* **azure config mode arm**
+* *azure config mode arm*
 
 ### **Command for refistering the provider**
-* **azure provider register Microsoft.Compute** 
+* *azure provider register Microsoft.Compute*
 
 ### **Connect to Your Azure Subscription**
 
